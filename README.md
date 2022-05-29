@@ -3,7 +3,7 @@
 ### PostIt is a social media web application. It's a platform where you can create, edit, like and delete memories.
 
 #### Demo video link : 
-https://drive.google.com/file/d/1dNiGNr-ay6H9OxwHrlYurUXZoSkoeTDI/view?usp=sharing
+https://youtu.be/7nhXBymChXQ
 
 
 
@@ -15,8 +15,6 @@ https://drive.google.com/file/d/1dNiGNr-ay6H9OxwHrlYurUXZoSkoeTDI/view?usp=shari
 ### 📌 Table of Contents
 * [Features](#features)
 * [Tech Stack Used/ Dependencies](#tech-stack)
-<!-- * [Agile methodology followed during the build](#agile) -->
-<!-- * [Usage Guide/ Application flow](#usage) -->
 * [Challenges faced and learnings](#challenges)
 * [Future Scope/ What's next?](#scope)
 
