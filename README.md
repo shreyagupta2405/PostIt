@@ -3,7 +3,7 @@
 ### PostIt is a social media web application. It's a platform where you can create, edit, like and delete memories.
 
 #### Demo video link : 
-
+https://drive.google.com/file/d/1dNiGNr-ay6H9OxwHrlYurUXZoSkoeTDI/view?usp=sharing
 
 
 
