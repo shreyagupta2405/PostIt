@@ -96,7 +96,7 @@ Agile is an easy to handle and flexible development process which relies on ligh
 1. Clone this repository.
 
 ```javascript
-  git clone 
+  git clone https://github.com/shreyagupta2405/PostIt.git
 ```  
 
 2. Head over to client directory and install dependencies by running the following in terminal.
